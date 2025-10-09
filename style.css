@@ -1,0 +1,39 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fff8f0;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+header {
+  background-color: #d62828;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #d62828;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-type: "🍴 ";
+  padding-left: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
